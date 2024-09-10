@@ -1,4 +1,14 @@
 #EXTM3U 
+#EXTINF:-1 group-title="SPORTS" tvg-id="SSC 1" tvg-logo="https://i.imgur.com/L9hHCPv.jpeg",QURAN TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5321d2a153ab463dba1c60b9068165c63:6c8194b07b1f2d114feb594d2ae6ee51
+https://quraan-enc.edgenextcdn.net/out/v1/c83937d3ef504ec49b5acd0cf7339f29/index.mpd
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="SSC 1" tvg-logo="https://i.imgur.com/L9hHCPv.jpeg", SUNNA TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3084383b39c3452b81ee0535bd381dee:bf25afb0796a4a73f127f056c206800d
+https://sunna-enc.edgenextcdn.net/out/v1/561f3a49088b47869fffb53d1412fe29/index.mpd
+
 #EXTINF:-1 group-title="SPORTS" tvg-id="SSC 1" tvg-logo="https://i.imgur.com/L9hHCPv.jpeg", Ssc 1 ( OTT )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c37:550727de4c96ef1ecff874905493580f
